@@ -1,4 +1,4 @@
-# Event Driven Stock Price Prediction using Transformers
+# Event-driven Stock Market Forecasting Using a Transformer-Based Model
 
 
 ## Steps to be followed
